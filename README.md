@@ -1,16 +1,37 @@
-## Hi there 👋
+💥 ¡Hey, soy Napoles! 👋
 
-<!--
-**lilnapolesbase9-maker/lilnapolesbase9-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador full stack | 💡 Apasionado por la innovación | 🧠 Aprendiendo sin parar
 
-Here are some ideas to get you started:
+“El código no solo resuelve problemas, también crea futuros.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech Stack
+
+💻 Lenguajes: JavaScript | TypeScript | Python | Go
+🧩 Frameworks: React | Next.js | Node.js | Express | Django
+🗃️ Bases de datos: MongoDB | PostgreSQL | MySQL | Firebase
+⚡ Dev Tools: Git | Docker | Vite | VS Code | Linux
+
+🔥 Lo que me motiva
+
+🧠 Aprender nuevas tecnologías todos los días
+
+🛠️ Crear proyectos que mezclen creatividad y utilidad
+
+🌍 Colaborar con comunidades open source
+
+🎯 Escribir código limpio, mantenible y con propósito
+
+📊 GitHub Stats
+
+
+
+
+💬 Conecta conmigo
+
+🌐 Portafolio (si tienes uno)
+
+💼 LinkedIn
+
+🐦 Twitter/X
+
+📧 napoles.dev@gmail.com
